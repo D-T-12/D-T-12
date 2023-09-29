@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**D-T-12/D-T-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mechatronics graduate who is in love with Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+Please take a look at projects I have complete in the Project Library.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently looking for a Junior role in anything Data.
+
+
+Project Library:
+
+University
+  - 'Reducing Greenhouse Emissions on Campus using Machine Learning' 🌱 (DS + ML)
+  - 'Programming a Letter Posting Robot' 🤖 (Robotics)
+    
+Kaggle
+  - 'Getting in the top 5% on the Titanic Competition' (DS + ML)
+    
+Courses
+  - A-Z Python
+  - A-Z Machine Learning
+  - A-Z Deep Learning
+    
+Personal
+  - GPT Philosopher (ML)
+  - Drone Mapping Software (Robotics)
+  - Predicting the recurrence of Breast Cancer (DS + ML)
