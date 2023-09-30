@@ -13,7 +13,7 @@ University
   - 'Reducing Greenhouse Emissions on Campus using Machine Learning' 🌱 (DS + ML)
   - 'Programming a Letter Posting Robot' 🤖 (Robotics)
     
-Kaggle
+[Kaggle](https://www.kaggle.com/benedictdraperturner)
   - 'Getting in the top 5% on the Titanic Competition' (DS + ML)
     
 Courses
