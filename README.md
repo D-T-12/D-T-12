@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my Portfolio 👋
 
 I am a Mechatronics graduate who is in love with Data Science and Machine Learning.
 
@@ -6,22 +6,21 @@ Please take a look at projects I have complete in the Project Library.
 
 I am currently looking for a Junior role in anything Data.
 
-
-Project Library:
-
-University
-  - 'Reducing Greenhouse Emissions on Campus using Machine Learning' 🌱 (DS + ML)
-  - 'Programming a Letter Posting Robot' 🤖 (Robotics)
+## Project Library 📖
+### Current Project 🏗️
+### University 👨‍🎓
+  - 'Reducing Greenhouse Emissions on Campus using Machine Learning' ☀️ (Data Science, Machine Learning, Python)
+  - 'Programming a Letter Posting Robot' 📬 (Robotics, C++)
     
-[Kaggle](https://www.kaggle.com/benedictdraperturner)
-  - 'Getting in the top 5% on the Titanic Competition' (DS + ML)
+### [Kaggle](https://www.kaggle.com/benedictdraperturner)
+  - 'Building a top 5% model on the Titanic Competition' 5️⃣ (DS + ML)
     
-Courses
-  - A-Z Python
-  - A-Z Machine Learning
-  - A-Z Deep Learning
+### Courses
+  - A-Z Python 🐍
+  - A-Z Machine Learning 🤖
+  - A-Z Deep Learning 🧠
     
-Personal
-  - GPT Philosopher (ML)
-  - Drone Mapping Software (Robotics)
-  - Predicting the recurrence of Breast Cancer (DS + ML)
+### Other
+  - GPT Philosopher (ML) 💬
+  - Drone Mapping Software (Robotics, Python) 🚁
+  - Predicting the recurrence of Breast Cancer (DS + ML) ⚕️
