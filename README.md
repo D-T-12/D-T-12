@@ -8,9 +8,7 @@ I am currently looking for a Junior role in anything Data.
 
 ## Project Library 📖
 ### Current Project 🏗️
-### University 👨‍🎓
-  - ['Reducing Greenhouse Emissions on Campus using Machine Learning'](https://github.com/Khrig/Emissions_Project/tree/main/Ben) ☀️ (Data Science, Machine Learning, Python)
-  - 'Programming a Letter Posting Robot' 📬 (Robotics, C++)
+  - Creating my portfolio (On here)
     
 ### [Kaggle](https://www.kaggle.com/benedictdraperturner)
   - 'Building a top 5% model on the Titanic Competition' 5️⃣ (DS + ML)
@@ -19,6 +17,10 @@ I am currently looking for a Junior role in anything Data.
   - A-Z Python 🐍
   - A-Z Machine Learning 🤖
   - A-Z Deep Learning 🧠
+
+### University 👨‍🎓
+- ['Reducing Greenhouse Emissions on Campus using Machine Learning'](https://github.com/Khrig/Emissions_Project/tree/main/Ben) ☀️ (Data Science, Machine Learning, Python)
+- 'Programming a Letter Posting Robot' 📬 (Robotics, C++)
     
 ### Other
   - GPT Philosopher (ML) 💬
