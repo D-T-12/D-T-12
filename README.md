@@ -9,7 +9,8 @@ I am currently looking for a Junior role in anything Data.
 ## Project Library 📖
 ### Current Project 🏗️
 ### University 👨‍🎓
-  - 'Reducing Greenhouse Emissions on Campus using Machine Learning' ☀️ (Data Science, Machine Learning, Python)
+  - ['Reducing Greenhouse Emissions on Campus using Machine Learning'] (https://github.com/Khrig/Emissions_Project/tree/main/Ben) ☀️ (Data Science, Machine Learning, Python)
+      - The first project I completed where I learned Python and Machine Learning Basics.
   - 'Programming a Letter Posting Robot' 📬 (Robotics, C++)
     
 ### [Kaggle](https://www.kaggle.com/benedictdraperturner)
