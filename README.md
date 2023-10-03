@@ -14,7 +14,7 @@ I am currently looking for a Junior role in anything Data.
   - 'Building a top 5% model on the Titanic Competition' 5️⃣ (DS + ML)
     
 ### Courses
-  - A-Z Python 🐍
+  - [A-Z Python](https://github.com/D-T-12/Udemy-Python) 🐍
   - A-Z Machine Learning 🤖
   - A-Z Deep Learning 🧠
 
