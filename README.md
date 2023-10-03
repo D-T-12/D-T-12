@@ -23,6 +23,6 @@ I am currently looking for a Junior role in anything Data.
 - ['Programming a Letter Posting Robot'](https://github.com/D-T-12/Robot-Project-2019) 📬 (Robotics, C++)
     
 ### Other
-  - Neural Networks: Zero to Hero - tutorials by Andrej Karpathy (ML) 🙏
+  - [Neural Networks: Zero to Hero - tutorials by Andrej Karpathy](https://github.com/D-T-12/NNs-Zero-to-Hero) (ML) 🙏
   - Drone Mapping Software (Robotics, Python) 🚁
   - Predicting the recurrence of Breast Cancer (DS + ML) ⚕️
