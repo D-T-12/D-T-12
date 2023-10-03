@@ -20,7 +20,7 @@ I am currently looking for a Junior role in anything Data.
 
 ### University 👨‍🎓
 - ['Reducing Greenhouse Emissions on Campus using Machine Learning'](https://github.com/Khrig/Emissions_Project/tree/main/Ben) ☀️ (Data Science, Machine Learning, Python)
-- 'Programming a Letter Posting Robot' 📬 (Robotics, C++)
+- ['Programming a Letter Posting Robot'](https://github.com/D-T-12/Robot-Project-2019) 📬 (Robotics, C++)
     
 ### Other
   - GPT Philosopher (ML) 💬
