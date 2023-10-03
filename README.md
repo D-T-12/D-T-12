@@ -24,5 +24,5 @@ I am currently looking for a Junior role in anything Data.
     
 ### Other
   - [Neural Networks: Zero to Hero - tutorials by Andrej Karpathy](https://github.com/D-T-12/NNs-Zero-to-Hero) (ML) 🙏
-  - Drone Mapping Software (Robotics, Python) 🚁
+  - [Drone Mapping Software](https://github.com/D-T-12/Drone-Mapping) (Robotics, Python) 🚁
   - Predicting the recurrence of Breast Cancer (DS + ML) ⚕️
