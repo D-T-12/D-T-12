@@ -13,11 +13,6 @@ I am currently looking for a Junior role in anything Data.
 ### [Kaggle](https://www.kaggle.com/benedictdraperturner)
   - 'Building a top 5% model on the Titanic Competition' 5️⃣ (DS + ML)
     
-### Courses
-  - [A-Z Python](https://github.com/D-T-12/Udemy-Python) 🐍
-  - A-Z Machine Learning 🤖
-  - A-Z Deep Learning 🧠
-
 ### University 👨‍🎓
 - ['Reducing Greenhouse Emissions on Campus using Machine Learning'](https://github.com/Khrig/Emissions_Project/tree/main/Ben) ☀️ (Data Science, Machine Learning, Python)
 - ['Programming a Letter Posting Robot'](https://github.com/D-T-12/Robot-Project-2019) 📬 (Robotics, C++)
@@ -26,3 +21,8 @@ I am currently looking for a Junior role in anything Data.
   - [Neural Networks: Zero to Hero - tutorials by Andrej Karpathy](https://github.com/D-T-12/NNs-Zero-to-Hero) (ML) 🙏
   - [Drone Mapping Software](https://github.com/D-T-12/Drone-Mapping) (Robotics, Python) 🚁
   - Predicting the recurrence of Breast Cancer (DS + ML) ⚕️
+
+### Courses
+  - [A-Z Python](https://github.com/D-T-12/Udemy-Python) 🐍
+  - A-Z Machine Learning 🤖
+  - A-Z Deep Learning 🧠
